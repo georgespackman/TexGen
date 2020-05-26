@@ -8,3 +8,4 @@ Instructions for building TexGen from source can be found here http://texgen.sou
 Windows executables and release tarballs can be found here https://sourceforge.net/projects/texgen/
 
 ## Trying out a private repo
+To build using OpenMP you need to check the compiler supports OpenMP 3.0, it is reccomended you use Intel c++ compiler 2019 or later on windows and latest gcc on Linux.
